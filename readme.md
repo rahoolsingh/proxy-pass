@@ -122,7 +122,7 @@ proxypass/
 ## 👨‍💻 Author
 
 **Veer Rajpoot**
-🔗 [veerrajpoot.com](veerrajpoot.com)
+🔗 [veerrajpoot.com](https://veerrajpoot.com)
 
 ---
 
