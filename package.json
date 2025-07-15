@@ -1,0 +1,17 @@
+{
+    "name": "redirects",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "veerrajpoot.com",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^17.2.0",
+        "express": "^5.1.0",
+        "request": "^2.88.2"
+    },
+    "keywords": [],
+    "description": ""
+}
